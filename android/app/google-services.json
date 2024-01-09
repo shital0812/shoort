@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "596765915594",
+    "project_id": "shoort-2d60f",
+    "storage_bucket": "shoort-2d60f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596765915594:android:b690c9519d73a3f77b3733",
+        "android_client_info": {
+          "package_name": "app.shoort"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596765915594-mlranavsiij5mgssaqqeha1k3c8lssg0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.shoort",
+            "certificate_hash": "02ac38f38900f535d20ce873a251a5683174756d"
+          }
+        },
+        {
+          "client_id": "596765915594-3sdmle4tlj2b6psi4h7p5sunedav2ho8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCILGHIJyl65MxwHrHWrs65OCVpMYSRdrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596765915594-3sdmle4tlj2b6psi4h7p5sunedav2ho8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Shoort</string>
+    <string name="facebook_app_id">807812467529927</string>
+    <string name="fb_login_protocol_scheme">fb807812467529927</string>
+    <string name="facebook_client_token">774c06fdca5220b8030001d1b05b5eef</string>
+
+</resources>
